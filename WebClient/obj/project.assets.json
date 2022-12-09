@@ -11024,19 +11024,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\adity\\.nuget\\packages\\": {}
+    "C:\\Users\\LENOVO\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\Sitem Peminjaman Alat Kantor\\WebClient\\WebClient.csproj",
+      "projectUniqueName": "D:\\METRODATA ACADEMY\\MCC\\Project MCC71\\Office Supply Loan\\WebClient\\WebClient.csproj",
       "projectName": "WebClient",
-      "projectPath": "D:\\Project\\Sitem Peminjaman Alat Kantor\\WebClient\\WebClient.csproj",
-      "packagesPath": "C:\\Users\\adity\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\Sitem Peminjaman Alat Kantor\\WebClient\\obj\\",
+      "projectPath": "D:\\METRODATA ACADEMY\\MCC\\Project MCC71\\Office Supply Loan\\WebClient\\WebClient.csproj",
+      "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+      "outputPath": "D:\\METRODATA ACADEMY\\MCC\\Project MCC71\\Office Supply Loan\\WebClient\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\adity\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -11050,8 +11055,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Project\\Sitem Peminjaman Alat Kantor\\Sistem Peminjaman Alat Kantor\\WebAPi.csproj": {
-              "projectPath": "D:\\Project\\Sitem Peminjaman Alat Kantor\\Sistem Peminjaman Alat Kantor\\WebAPi.csproj"
+            "D:\\METRODATA ACADEMY\\MCC\\Project MCC71\\Office Supply Loan\\Sistem Peminjaman Alat Kantor\\WebAPi.csproj": {
+              "projectPath": "D:\\METRODATA ACADEMY\\MCC\\Project MCC71\\Office Supply Loan\\Sistem Peminjaman Alat Kantor\\WebAPi.csproj"
             }
           }
         }
@@ -11126,7 +11131,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

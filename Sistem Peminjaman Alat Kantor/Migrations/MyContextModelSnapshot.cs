@@ -361,8 +361,7 @@ namespace WebAPi.Migrations
 
             modelBuilder.Entity("WebAPi.Models.RequestItem", b =>
                 {
-                    b.Navigation("ReturnItems")
-                        .IsRequired();
+                    b.Navigation("ReturnItems");
                 });
 
             modelBuilder.Entity("WebAPi.Models.Role", b =>
